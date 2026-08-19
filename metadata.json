@@ -1,0 +1,6 @@
+{
+  "name": "SEO Article Structure Planner",
+  "description": "A minimal, privacy-first tool to generate structured, intent-aligned SEO content blueprints and article outlines in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
